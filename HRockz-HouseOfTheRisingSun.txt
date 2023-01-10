@@ -2,9 +2,9 @@ H-ROCKZ - HOUSE OF THE RISING SUN
 =================================
 
 Music + Text:   The Animals
-
 Guitar Tuning:  EADGBE
 Guitar Effect:  [acoustic guitar]
+Tempo:          120 bpm
 
 
 [Slow picking]
